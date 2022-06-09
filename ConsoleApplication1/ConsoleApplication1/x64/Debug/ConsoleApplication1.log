@@ -1,0 +1,2 @@
+﻿ConsoleApplication1.obj : error LNK2005: main already defined in ConsoleApplication2.obj
+C:\ComputerOrganization\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe : fatal error LNK1169: one or more multiply defined symbols found
